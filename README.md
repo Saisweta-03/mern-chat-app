@@ -25,9 +25,6 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express.js,
 - Chat Dashboard
 
 
-
-> Example: `Login Page | Chat Dashboard | Real-time Messaging View`
-
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -42,14 +39,6 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express.js,
 - Socket.IO
 - JSON Web Token (JWT)
 - bcrypt.js (for password hashing)
-
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Saisweta-03/mern-chat-app.git
-   cd mern-chat-app
-
 
 ## ✨ Future Improvements
 -Group chat support
