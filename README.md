@@ -41,6 +41,7 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express.js,
 - bcrypt.js (for password hashing)
 
 ## ✨ Future Improvements
+
 -Group chat support
 -Message notifications
 -User online status
