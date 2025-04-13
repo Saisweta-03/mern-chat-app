@@ -42,11 +42,12 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express.js,
 
 ## ✨ Future Improvements
 
--Group chat support
--Message notifications
--User online status
--Message reactions
--File/image sharing
+- Group chat support
+- Message notifications
+- User online status
+- Message reactions
+- File/image sharing
+
 
 
 
